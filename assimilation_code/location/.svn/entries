@@ -1,126 +1,0 @@
-10
-
-dir
-11499
-https://svn-dares-dart.cgd.ucar.edu/DART/releases/Manhattan/assimilation_code/location
-https://svn-dares-dart.cgd.ucar.edu
-
-
-
-2017-03-31T21:24:30.491754Z
-11427
-nancy@ucar.edu
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-dfa8782c-da17-4c45-ba5c-5625b50a00d6
-
-threed_sphere
-dir
-
-twod_annulus
-dir
-
-twod_sphere
-dir
-
-threed_cartesian
-dir
-
-annulus
-dir
-
-oned
-dir
-
-channel
-dir
-
-location_mod.html
-file
-
-
-
-
-2017-04-17T14:32:29.524436Z
-d7d61c56c13b181599cab40610cbcf49
-2017-03-14T20:20:57.495691Z
-11306
-hendric@ucar.edu
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7002
-
-threed
-dir
-
-column
-dir
-
-twod
-dir
-
-README
-file
-
-
-
-
-2017-04-17T14:32:29.544436Z
-8cdc28a9c5b485f51153ac77d2e04900
-2017-02-03T22:23:13.573674Z
-10998
-thoar@ucar.edu
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2340
-

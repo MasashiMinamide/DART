@@ -1,4 +1,0 @@
-&state_vector_io_nml
-   limit_mem                  = 2100000000
-   single_precision_output    = .false.
-/

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned
+END
+mkmf_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/mkmf_preprocess
+END
+path_names_obs_common_subset
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/path_names_obs_common_subset
+END
+path_names_obs_seq_to_netcdf
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/path_names_obs_seq_to_netcdf
+END
+mkmf_obs_sequence_tool
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/mkmf_obs_sequence_tool
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/input.nml
+END
+path_names_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/path_names_preprocess
+END
+path_names_obs_sequence_tool
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/path_names_obs_sequence_tool
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/quickbuild.csh
+END
+mkmf_obs_common_subset
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/mkmf_obs_common_subset
+END
+mkmf_obs_seq_to_netcdf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/11371/DART/releases/Manhattan/observations/utilities/oned/mkmf_obs_seq_to_netcdf
+END

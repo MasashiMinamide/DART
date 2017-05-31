@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/11441/DART/releases/Manhattan/observations/obs_converters/SSEC
+END
+SSEC.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/11441/DART/releases/Manhattan/observations/obs_converters/SSEC/SSEC.html
+END
+convert_ssec_satwnd.f90
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/SSEC/convert_ssec_satwnd.f90
+END

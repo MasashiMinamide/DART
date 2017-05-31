@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11498/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/work
+END
+sampling_error_correction_table.nc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/work/sampling_error_correction_table.nc
+END
+path_names_gen_sampling_err_table
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/work/path_names_gen_sampling_err_table
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/work/input.nml
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11441/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/work/quickbuild.csh
+END
+runme.lsf
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/work/runme.lsf
+END
+mkmf_gen_sampling_err_table
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/work/mkmf_gen_sampling_err_table
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11498/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/work/README
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/11498/DART/releases/Manhattan/assimilation_code/modules/io
+END
+single_file_io_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/11441/DART/releases/Manhattan/assimilation_code/modules/io/single_file_io_mod.f90
+END
+state_vector_io_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/modules/io/state_vector_io_mod.f90
+END
+io_filenames_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/modules/io/io_filenames_mod.f90
+END
+direct_netcdf_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/11498/DART/releases/Manhattan/assimilation_code/modules/io/direct_netcdf_mod.f90
+END
+dart_time_io_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11441/DART/releases/Manhattan/assimilation_code/modules/io/dart_time_io_mod.f90
+END
+state_structure_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/modules/io/state_structure_mod.f90
+END
+state_vector_io_mod.nml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/modules/io/state_vector_io_mod.nml
+END

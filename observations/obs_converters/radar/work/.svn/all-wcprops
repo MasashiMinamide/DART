@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/radar/work
+END
+mkmf_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/radar/work/mkmf_preprocess
+END
+mkmf_create_obs_radar_sequence
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/radar/work/mkmf_create_obs_radar_sequence
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/radar/work/input.nml
+END
+path_names_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/radar/work/path_names_preprocess
+END
+path_names_create_obs_radar_sequence
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/radar/work/path_names_create_obs_radar_sequence
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/radar/work/quickbuild.csh
+END

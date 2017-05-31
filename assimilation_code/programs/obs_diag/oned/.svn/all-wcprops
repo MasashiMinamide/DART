@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/11427/DART/releases/Manhattan/assimilation_code/programs/obs_diag/oned
+END
+obs_diag.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_diag/oned/obs_diag.f90
+END
+obs_diag.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11427/DART/releases/Manhattan/assimilation_code/programs/obs_diag/oned/obs_diag.html
+END
+obs_diag.nml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_diag/oned/obs_diag.nml
+END

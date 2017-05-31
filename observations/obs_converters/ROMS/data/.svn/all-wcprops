@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data
+END
+wc13_obs.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/wc13_obs.nc
+END
+wc13_depths.nc
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/wc13_depths.nc
+END
+wc13_grd.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/wc13_grd.nc
+END
+wc13_ini.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/wc13_ini.nc
+END
+wc13_mod.nc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/wc13_mod.nc
+END
+wc13_mod_001.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/wc13_mod_001.nc
+END
+wc13_mod_002.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/wc13_mod_002.nc
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/README
+END
+wc13_mod_003.nc
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/ROMS/data/wc13_mod_003.nc
+END

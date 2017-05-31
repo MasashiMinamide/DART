@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/11427/DART/releases/Manhattan/assimilation_code/programs/obs_common_subset
+END
+obs_common_subset.html
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11427/DART/releases/Manhattan/assimilation_code/programs/obs_common_subset/obs_common_subset.html
+END
+obs_common_subset.nml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_common_subset/obs_common_subset.nml
+END
+obs_common_subset.f90
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_common_subset/obs_common_subset.f90
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11498/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table
+END
+gen_sampling_err_table.f90
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/11371/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/gen_sampling_err_table.f90
+END
+gen_sampling_err_table.html
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/11403/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/gen_sampling_err_table.html
+END
+gen_sampling_err_table.nml
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/gen_sampling_err_table/gen_sampling_err_table.nml
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compute_error
+END
+compute_error.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compute_error/compute_error.f90
+END
+compute_error.html
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compute_error/compute_error.html
+END
+compute_error.nml
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compute_error/compute_error.nml
+END

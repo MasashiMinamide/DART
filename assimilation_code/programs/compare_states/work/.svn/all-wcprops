@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compare_states/work
+END
+mkmf_compare_states
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compare_states/work/mkmf_compare_states
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compare_states/work/input.nml
+END
+path_names_compare_states
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compare_states/work/path_names_compare_states
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/compare_states/work/quickbuild.csh
+END

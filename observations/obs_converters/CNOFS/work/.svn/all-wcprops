@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work
+END
+mkmf_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/mkmf_preprocess
+END
+path_names_CNOFS_text_to_obs
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/path_names_CNOFS_text_to_obs
+END
+obs_seq.out
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/obs_seq.out
+END
+mkmf_obs_sequence_tool
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/mkmf_obs_sequence_tool
+END
+cnofs_jan_2012_data_assim.ivm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/cnofs_jan_2012_data_assim.ivm
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/input.nml
+END
+path_names_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/path_names_preprocess
+END
+path_names_obs_sequence_tool
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/path_names_obs_sequence_tool
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/quickbuild.csh
+END
+mkmf_advance_time
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/mkmf_advance_time
+END
+mkmf_CNOFS_text_to_obs
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/mkmf_CNOFS_text_to_obs
+END
+path_names_advance_time
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CNOFS/work/path_names_advance_time
+END

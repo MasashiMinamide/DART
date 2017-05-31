@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work
+END
+mkmf_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/mkmf_preprocess
+END
+mkmf_create_real_obs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/mkmf_create_real_obs
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/input.nml
+END
+mkmf_prepbufr_to_obs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/mkmf_prepbufr_to_obs
+END
+path_names_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/path_names_preprocess
+END
+path_names_create_real_obs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/path_names_create_real_obs
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/quickbuild.csh
+END
+multi_create.csh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/multi_create.csh
+END
+path_names_prepbufr_to_obs
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/path_names_prepbufr_to_obs
+END
+create_obs_seq.csh
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/create_obs_seq.csh
+END
+input.nml.template
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/NCEP/ascii_to_obs/work/input.nml.template
+END

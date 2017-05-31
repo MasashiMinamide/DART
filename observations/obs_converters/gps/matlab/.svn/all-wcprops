@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab
+END
+gloc.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/gloc.m
+END
+gpsloc.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/gpsloc.m
+END
+gloc1_14.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/gloc1_14.m
+END
+obserr.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/obserr.m
+END
+loc1.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/loc1.m
+END
+loc2.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/loc2.m
+END
+selerad.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/selerad.m
+END
+loc3.m
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/loc3.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gps/matlab/README
+END

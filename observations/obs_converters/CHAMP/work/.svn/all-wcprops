@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work
+END
+mkmf_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/mkmf_preprocess
+END
+path_names_CHAMP_density_text_to_obs
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/path_names_CHAMP_density_text_to_obs
+END
+obs_seq.out
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/obs_seq.out
+END
+mkmf_obs_sequence_tool
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/mkmf_obs_sequence_tool
+END
+Density_3deg_02_335.ascii
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/Density_3deg_02_335.ascii
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/input.nml
+END
+path_names_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/path_names_preprocess
+END
+path_names_obs_sequence_tool
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/path_names_obs_sequence_tool
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/quickbuild.csh
+END
+convert.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/convert.sh
+END
+mkmf_advance_time
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/mkmf_advance_time
+END
+mkmf_CHAMP_density_text_to_obs
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/mkmf_CHAMP_density_text_to_obs
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/README
+END
+path_names_advance_time
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/CHAMP/work/path_names_advance_time
+END

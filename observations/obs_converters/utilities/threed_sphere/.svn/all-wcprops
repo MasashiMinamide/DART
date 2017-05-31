@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/11371/DART/releases/Manhattan/observations/obs_converters/utilities/threed_sphere
+END
+mkmf_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/utilities/threed_sphere/mkmf_preprocess
+END
+mkmf_make_fake_obs
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/utilities/threed_sphere/mkmf_make_fake_obs
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11371/DART/releases/Manhattan/observations/obs_converters/utilities/threed_sphere/input.nml
+END
+path_names_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/utilities/threed_sphere/path_names_preprocess
+END
+path_names_make_fake_obs
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/utilities/threed_sphere/path_names_make_fake_obs
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/utilities/threed_sphere/quickbuild.csh
+END

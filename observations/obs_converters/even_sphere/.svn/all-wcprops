@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/even_sphere
+END
+run_fixed_network_seq.csh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/even_sphere/run_fixed_network_seq.csh
+END
+run_fixed_network_daily.csh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/even_sphere/run_fixed_network_daily.csh
+END
+even_sphere_pe2lyr.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/even_sphere/even_sphere_pe2lyr.m
+END
+even_sphere_dense.m
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/even_sphere/even_sphere_dense.m
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/even_sphere/README
+END
+even_sphere.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/even_sphere/even_sphere.m
+END

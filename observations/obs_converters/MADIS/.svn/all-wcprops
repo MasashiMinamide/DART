@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/11441/DART/releases/Manhattan/observations/obs_converters/MADIS
+END
+MADIS.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/11441/DART/releases/Manhattan/observations/obs_converters/MADIS/MADIS.html
+END
+convert_madis_metar.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/convert_madis_metar.f90
+END
+convert_madis_rawin.nml
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/MADIS/convert_madis_rawin.nml
+END
+convert_madis_acars.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/convert_madis_acars.f90
+END
+convert_madis_mesonet.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/convert_madis_mesonet.f90
+END
+convert_madis_marine.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/convert_madis_marine.f90
+END
+meteor_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/meteor_mod.f90
+END
+convert_madis_rawin.f90
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/convert_madis_rawin.f90
+END
+convert_madis_satwnd.f90
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/convert_madis_satwnd.f90
+END
+convert_madis_profiler.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/convert_madis_profiler.f90
+END

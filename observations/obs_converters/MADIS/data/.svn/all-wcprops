@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/data
+END
+2005082600_marine.nc.gz
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/data/2005082600_marine.nc.gz
+END
+2011052700_satwnd.nc.gz
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/data/2011052700_satwnd.nc.gz
+END
+2011060311_profiler.nc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/data/2011060311_profiler.nc
+END
+2005082600_rawin.nc.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/data/2005082600_rawin.nc.gz
+END
+2005082600_metar.nc.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/data/2005082600_metar.nc.gz
+END
+2005082600_acars.nc.gz
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/data/2005082600_acars.nc.gz
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MADIS/data/README
+END

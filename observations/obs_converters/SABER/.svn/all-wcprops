@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/SABER
+END
+error_prof.ps
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/SABER/error_prof.ps
+END
+convert_saber_cdf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/SABER/convert_saber_cdf.f90
+END
+convert_saber_cdf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/SABER/convert_saber_cdf.nml
+END

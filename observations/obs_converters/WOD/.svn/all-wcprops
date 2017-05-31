@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/WOD
+END
+wod_to_obs.nml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/WOD/wod_to_obs.nml
+END
+wodFOR.f
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/WOD/wodFOR.f
+END
+wod_read_routines.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/WOD/wod_read_routines.f90
+END
+wod_to_obs.f90
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/WOD/wod_to_obs.f90
+END
+WOD.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/WOD/WOD.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/WOD/README
+END

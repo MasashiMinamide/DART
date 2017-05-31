@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/11427/DART/releases/Manhattan/assimilation_code/location/threed_cartesian
+END
+location_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/location/threed_cartesian/location_mod.f90
+END
+location_mod.html
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11427/DART/releases/Manhattan/assimilation_code/location/threed_cartesian/location_mod.html
+END
+location_mod.nml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/location/threed_cartesian/location_mod.nml
+END
+xyz_location_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/location/threed_cartesian/xyz_location_mod.f90
+END

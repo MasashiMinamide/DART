@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work
+END
+mkmf_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work/mkmf_preprocess
+END
+path_names_MIDAS_to_obs
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work/path_names_MIDAS_to_obs
+END
+mkmf_obs_sequence_tool
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work/mkmf_obs_sequence_tool
+END
+input.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work/input.nml
+END
+path_names_preprocess
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work/path_names_preprocess
+END
+path_names_obs_sequence_tool
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work/path_names_obs_sequence_tool
+END
+quickbuild.csh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work/quickbuild.csh
+END
+mkmf_MIDAS_to_obs
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/MIDAS/work/mkmf_MIDAS_to_obs
+END

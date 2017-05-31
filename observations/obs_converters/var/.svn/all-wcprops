@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/var
+END
+littler_tf_dart.f90
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/littler_tf_dart.f90
+END
+gts_dart_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/gts_dart_mod.f90
+END
+rad_3dvar_to_dart.html
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/rad_3dvar_to_dart.html
+END
+littler_tf_dart.html
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/littler_tf_dart.html
+END
+gts_to_dart.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/gts_to_dart.f90
+END
+rad_3dvar_to_dart.nml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/rad_3dvar_to_dart.nml
+END
+var.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/var.html
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/README
+END
+gts_to_dart.nml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/var/gts_to_dart.nml
+END
+rad_3dvar_to_dart.f90
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/var/rad_3dvar_to_dart.f90
+END

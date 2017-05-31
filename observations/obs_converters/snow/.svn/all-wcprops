@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/snow
+END
+snow_to_obs.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/snow/snow_to_obs.nml
+END
+snow_to_obs_netcdf.nml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/snow/snow_to_obs_netcdf.nml
+END
+snow_to_obs.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/snow/snow_to_obs.f90
+END
+snow_to_obs_netcdf.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/snow/snow_to_obs_netcdf.f90
+END
+snow_to_obs.html
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/snow/snow_to_obs.html
+END

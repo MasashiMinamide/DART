@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/gnd_gps_vtec
+END
+gnd_gps_vtec_text_to_obs.nml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/gnd_gps_vtec/gnd_gps_vtec_text_to_obs.nml
+END
+gnd_gps_vtec_text_to_obs.f90
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gnd_gps_vtec/gnd_gps_vtec_text_to_obs.f90
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/gnd_gps_vtec/README
+END

@@ -1,0 +1,235 @@
+10
+
+dir
+11499
+https://svn-dares-dart.cgd.ucar.edu/DART/releases/Manhattan/observations/obs_converters
+https://svn-dares-dart.cgd.ucar.edu
+
+
+
+2017-04-14T19:58:02.949230Z
+11498
+nancy@ucar.edu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+dfa8782c-da17-4c45-ba5c-5625b50a00d6
+
+GSI2DART
+dir
+
+observations.html
+file
+
+
+
+
+2017-04-17T14:30:39.480629Z
+48ecd8100f622a9774219345ff591ece
+2017-04-13T15:26:47.469016Z
+11474
+nancy@ucar.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18707
+
+text
+dir
+
+NCEP
+dir
+
+DWL
+dir
+
+snow
+dir
+
+CHAMP
+dir
+
+AURA
+dir
+
+WOD
+dir
+
+radar
+dir
+
+gps
+dir
+
+tropical_cyclone
+dir
+
+obs_error
+dir
+
+GTSPP
+dir
+
+AIRS
+dir
+
+GPSPW
+dir
+
+cice
+dir
+
+ok_mesonet
+dir
+
+text_GITM
+dir
+
+SSUSI
+dir
+
+tpw
+dir
+
+ROMS
+dir
+
+AVISO
+dir
+
+quikscat
+dir
+
+var
+dir
+
+SABER
+dir
+
+Ameriflux
+dir
+
+SSEC
+dir
+
+MADIS
+dir
+
+MIDAS
+dir
+
+README
+file
+
+
+
+
+2017-04-17T14:30:39.489629Z
+c369660cd6420ba90c835e01d8981fed
+2017-02-03T22:23:13.573674Z
+10998
+thoar@ucar.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+942
+
+gnd_gps_vtec
+dir
+
+even_sphere
+dir
+
+COSMOS
+dir
+
+buildall.csh
+file
+
+
+
+
+2017-04-17T14:30:39.498629Z
+ead82329f046763ed38214777751bbbc
+2017-03-14T21:57:35.902158Z
+11317
+nancy@ucar.edu
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3246
+
+CNOFS
+dir
+
+MODIS
+dir
+
+utilities
+dir
+

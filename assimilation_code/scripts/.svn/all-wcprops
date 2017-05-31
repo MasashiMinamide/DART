@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/scripts
+END
+build_script.csh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/scripts/build_script.csh
+END
+split_obs_seq.csh
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/scripts/split_obs_seq.csh
+END
+day_template.bash
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/scripts/day_template.bash
+END
+day_template.csh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/scripts/day_template.csh
+END
+shell_exit.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/scripts/shell_exit.sh
+END
+day_template.zsh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/scripts/day_template.zsh
+END
+day_template.ksh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/scripts/day_template.ksh
+END

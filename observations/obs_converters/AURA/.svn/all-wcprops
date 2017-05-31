@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/AURA
+END
+convert_all_aura.pro
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/AURA/convert_all_aura.pro
+END
+convert_aura.f90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/AURA/convert_aura.f90
+END
+convert_hdf_to_netcdf.pro
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/AURA/convert_hdf_to_netcdf.pro
+END
+convert_aura.nml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/AURA/convert_aura.nml
+END

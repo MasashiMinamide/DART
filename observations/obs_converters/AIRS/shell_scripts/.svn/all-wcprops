@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/AIRS/shell_scripts
+END
+oneday_down.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/AIRS/shell_scripts/oneday_down.sh
+END
+download.sh
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/AIRS/shell_scripts/download.sh
+END
+mergeit.sh
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/AIRS/shell_scripts/mergeit.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/AIRS/shell_scripts/README
+END

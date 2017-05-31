@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/tpw
+END
+convert_tpw.nml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/tpw/convert_tpw.nml
+END
+SnglResSubsetter.v1.2.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/tpw/SnglResSubsetter.v1.2.tar.gz
+END
+convert_tpw.f90
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/tpw/convert_tpw.f90
+END
+convert_gpspw.f90
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/tpw/convert_gpspw.f90
+END
+tpw.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/tpw/tpw.html
+END

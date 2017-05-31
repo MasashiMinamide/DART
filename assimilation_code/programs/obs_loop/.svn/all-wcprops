@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_loop
+END
+obs_loop.nml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_loop/obs_loop.nml
+END
+obs_loop.f90
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_loop/obs_loop.f90
+END

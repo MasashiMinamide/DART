@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/11427/DART/releases/Manhattan/assimilation_code/programs/obs_seq_coverage
+END
+obs_seq_coverage.f90
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_seq_coverage/obs_seq_coverage.f90
+END
+obs_seq_coverage.html
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/11427/DART/releases/Manhattan/assimilation_code/programs/obs_seq_coverage/obs_seq_coverage.html
+END
+obs_seq_coverage.nml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/11355/DART/releases/Manhattan/assimilation_code/programs/obs_seq_coverage/obs_seq_coverage.nml
+END

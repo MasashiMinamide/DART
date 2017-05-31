@@ -1,0 +1,34 @@
+K 13
+svn:mergeinfo
+V 1860
+/DART/branches/CM1/observations/MADIS:8575-10322
+/DART/branches/bgrid_sprint/observations/MADIS:8194-8243
+/DART/branches/bgrid_sprint_state_reorder/observations/MADIS:8214-8256
+/DART/branches/cam/observations/MADIS:6639-7729
+/DART/branches/development/observations/MADIS:4680-6255
+/DART/branches/gitm/observations/MADIS:5143-6215
+/DART/branches/gitm_lanai/observations/MADIS:6571-6652
+/DART/branches/rma_cam_fv/observations/MADIS:9558-9734
+/DART/branches/rma_cf_conventions/observations/MADIS:9733-10092
+/DART/branches/rma_diag/observations/MADIS:9629-9743
+/DART/branches/rma_fixed_filenames/observations/MADIS:10708-10901
+/DART/branches/rma_kinds_to_state_structure/observations/MADIS:8958-9437
+/DART/branches/rma_kinds_to_state_strucutre/observations/MADIS:8909-8957
+/DART/branches/rma_model_mod_check/observations/MADIS:8965-9178
+/DART/branches/rma_mpas_fold_mean_fwd/observations/MADIS:9348-9458
+/DART/branches/rma_pop_variable_namelist/observations/MADIS:8824-9156
+/DART/branches/rma_qc_fwd_op/observations/MADIS:9650-9723
+/DART/branches/rma_refac_io/observations/MADIS:9123-9546
+/DART/branches/rma_remove_groups_from_transpose/observations/MADIS:9327-9455
+/DART/branches/rma_roms/observations/MADIS:10157-10381
+/DART/branches/rma_single_file/observations/MADIS:10904-11113
+/DART/branches/rma_sprint/observations/MADIS:8101-8172
+/DART/branches/rma_state_structure_test_dir/observations/MADIS:9478-9682
+/DART/branches/rma_state_structure_unit_test/observations/MADIS:9697-10274
+/DART/branches/rma_trunk/observations/obs_converters/MADIS:11355-11440
+/DART/branches/rma_trunk_filename/observations/MADIS:8017-8163
+/DART/branches/rma_trunk_get_state_fun/observations/MADIS:8574-8602
+/DART/branches/rma_trunk_mpi_get_in_utils/observations/MADIS:8567-8823
+/DART/branches/trunk_with_cam_style/observations/MADIS:9473-9540
+/DART/trunk/observations/MADIS:6306-9556
+END

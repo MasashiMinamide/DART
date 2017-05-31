@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/utilities
+END
+make_fake_obs.f90
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/utilities/make_fake_obs.f90
+END
+obs_utilities_mod.f90
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/11355/DART/releases/Manhattan/observations/obs_converters/utilities/obs_utilities_mod.f90
+END
+make_fake_obs.nml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/11427/DART/releases/Manhattan/observations/obs_converters/utilities/make_fake_obs.nml
+END

@@ -116,15 +116,14 @@ implicit none
 ! These are the required interfaces for an obs_def module.
 public :: write_1d_integral, read_1d_integral, &
           interactive_1d_integral, get_expected_1d_integral, &
-          set_1d_integral
+          set_1d_integral, log_transform
 
 ! Storage for the special information required for observations of this type
 integer               :: num_1d_integral_obs = 0     ! current count of obs
-integer               :: max_1d_integral_obs = 1000  ! allocation size limit
+integer               :: max_1d_integral_obs = 5000000  ! allocation size limit
 real(r8), allocatable :: half_width(:)         ! metadata storage
 integer,  allocatable :: num_points(:)         ! ditto
 integer,  allocatable :: localization_type(:)  ! ditto
-
 
 ! Set to .true. to get debugging output
 logical :: debug = .false.
@@ -132,9 +131,9 @@ logical :: debug = .false.
 
 ! version controlled file description for error handling, do not edit
 character(len=256), parameter :: source   = &
-   "$URL: https://svn-dares-dart.cgd.ucar.edu/DART/releases/Manhattan/observations/forward_operators/obs_def_1d_state_mod.f90 $"
-character(len=32 ), parameter :: revision = "$Revision: 11626 $"
-character(len=128), parameter :: revdate  = "$Date: 2017-05-11 12:27:50 -0500 (Thu, 11 May 2017) $"
+   "$URL: https://svn-dares-dart.cgd.ucar.edu/DART/branches/rma_trunk/observations/forward_operators/obs_def_1d_state_mod.f90 $"
+character(len=32 ), parameter :: revision = "$Revision: 11612 $"
+character(len=128), parameter :: revdate  = "$Date: 2017-05-08 16:18:42 -0600 (Mon, 08 May 2017) $"
 
 logical, save :: module_initialized = .false.
 
@@ -387,6 +386,37 @@ end subroutine get_expected_1d_integral
 
 !----------------------------------------------------------------------
 
+subroutine log_transform(state_handle, ens_size, location, igrkey, val, istatus)
+
+type(ensemble_type), intent(in)  :: state_handle
+integer,             intent(in)  :: ens_size
+type(location_type), intent(in)  :: location
+integer,             intent(in)  :: igrkey
+real(r8),            intent(out) :: val(ens_size)
+integer,             intent(out) :: istatus(ens_size)
+
+real(r8) :: loc
+integer :: point_istatus(ens_size)
+logical :: return_now ! used to return early if an interpoaltion fails
+
+if ( .not. module_initialized ) call initialize_module
+
+loc = get_location(location)
+if(debug) print*, 'loc base is ', loc
+
+istatus(:) = 0 ! so you can track istatus from 1 to num_points
+
+call interpolate(state_handle, ens_size, location, 1, val, point_istatus)
+call track_status(ens_size, point_istatus, val, istatus, return_now)
+
+where (istatus == 0) val = log(abs(val))
+
+if(debug) print*, 'return value for forward operator is ', val
+if(debug) print*, 'return status (0 good; >0 error; <0 reserved for system use) is ', istatus
+
+end subroutine log_transform
+
+!----------------------------------------------------------------------
 subroutine set_1d_integral(integral_half_width, num_eval_pts, localize_type, igrkey, istatus)
 
 ! inputs are: half width of integral
@@ -528,9 +558,11 @@ use ensemble_manager_mod, only : ensemble_type, init_ensemble_manager, &
                                                                               
 use obs_kind_mod, only : RAW_STATE_VARIABLE
 use obs_kind_mod, only : RAW_STATE_1D_INTEGRAL
+use obs_kind_mod, only : RAW_LOG_TRANSFORM
                                                                               
 use obs_kind_mod, only : QTY_STATE_VARIABLE
 use obs_kind_mod, only : QTY_1D_INTEGRAL
+use obs_kind_mod, only : QTY_1D_LOG
                                                                               
 !---------------------------------------------------------------------------  
                                                                               
@@ -550,7 +582,8 @@ use obs_kind_mod, only : QTY_1D_INTEGRAL
 ! here so the generic obs_def_mod has access to the code.
 
    use obs_def_1d_state_mod, only : write_1d_integral, read_1d_integral, &
-                                     interactive_1d_integral, get_expected_1d_integral
+                                     interactive_1d_integral, get_expected_1d_integral,&
+                                     log_transform
 
 !----------------------------------------------------------------------
 ! End of any obs_def_xxx_mod specific use statements
@@ -950,6 +983,8 @@ if(assimilate_this_ob .or. evaluate_this_ob) then
 
          case(RAW_STATE_1D_INTEGRAL)
             call get_expected_1d_integral(state_handle, ens_size, location, obs_def%key, expected_obs, istatus)
+         case(RAW_LOG_TRANSFORM)
+            call log_transform(state_handle, ens_size, location, obs_def%key, expected_obs, istatus)
       case(RAW_STATE_VARIABLE)
          call interpolate(state_handle, ens_size, location, QTY_STATE_VARIABLE, expected_obs, istatus)
 
@@ -1054,6 +1089,8 @@ select case(obs_def%kind)
 
       case(RAW_STATE_1D_INTEGRAL)
          call read_1d_integral(obs_def%key, ifile, fform)
+      case(RAW_LOG_TRANSFORM)
+         continue
    case(RAW_STATE_VARIABLE)
       continue
 
@@ -1164,6 +1201,8 @@ select case(obs_def%kind)
 
       case(RAW_STATE_1D_INTEGRAL)
          call write_1d_integral(obs_def%key, ifile, fform)
+      case(RAW_LOG_TRANSFORM)
+         continue
    case(RAW_STATE_VARIABLE)
       continue
 
@@ -1238,6 +1277,8 @@ select case(obs_def%kind)
 
       case(RAW_STATE_1D_INTEGRAL)
          call interactive_1d_integral(obs_def%key)
+      case(RAW_LOG_TRANSFORM)
+         continue
    case(RAW_STATE_VARIABLE)
       continue
 
